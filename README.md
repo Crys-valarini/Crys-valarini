@@ -1,7 +1,7 @@
 - 👋 Hi, I’m crystoffer louro valarini
 - 👀 estou interesado em estudar
 - 🌱  nao tenho interece em estudar informatica no momento
-- 💞️ I’m looking to collaborate on ...
+- 💞️ estou colaborando com as aulas de conputaçao
 - 📫 How to reach me ...
 
 <!---
