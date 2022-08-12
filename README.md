@@ -1,4 +1,4 @@
-- 👋 Hi, I’m crystoffer louro vslsrini
+- 👋 Hi, I’m crystoffer louro valarini
 - 👀 estou interesado em estudar
 - 🌱  nao tenho interece em estudar informatica no momento
 - 💞️ I’m looking to collaborate on ...
